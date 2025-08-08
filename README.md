@@ -73,5 +73,4 @@ Xilinx Vivado, Intel Quartus, ModelSim, Electric VLSI, Cadence Virtuoso, MATLAB 
 **GitHub:** [https://github.com/DeveshChetiwal11](https://github.com/DeveshChetiwal11)  
 **LinkedIn:** [https://www.linkedin.com/in/devesh-chetiwal-1aa58724a/](https://www.linkedin.com/in/devesh-chetiwal-1aa58724a/)  
 **Email:** devesh.chetiwal.21042@iitgoa.ac.in
-
 **Phone No.:** 7878720523
